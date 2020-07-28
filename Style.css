@@ -5,7 +5,9 @@ main
   height: 100%;
   margin: auto 0;
   font-family: 'Raleway','Microsoft JhengHei';
+  color: white;
 }
+
 
 .fixed-bg {
   min-height: 100%;
